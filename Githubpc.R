@@ -31,6 +31,4 @@ coronavirus = coronavirus %>%
 
 View(coronavirus)
 
-###Análisis
-
-str(coronavirus)
+##comentario 16 abril
